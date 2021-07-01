@@ -7,7 +7,7 @@ function App() {
       <header className="App-header">
         <img src={logo} className="App-logo" alt="logo" />
         <p>
-          류한길 react-app {{ msg }}
+          테스트 성공!
         </p>
         <a
           className="App-link"
